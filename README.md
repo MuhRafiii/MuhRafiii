@@ -8,11 +8,9 @@ serta terus meningkatkan keterampilan saya dalam Clean Architecture dan Database
 
 🚀 Tech Stack
 
-🖥️ Frontend: React.js, Vite, Tailwind CSS, Shadcn UI
-
-⚙️ Backend: Node.js (Express), Prisma ORM, JWT Auth
-
-🗄️ Database: PostgreSQL, MySQL
+🖥️ Frontend: React.js, Vite, Tailwind CSS, Shadcn UI  
+⚙️ Backend: Node.js (Express), Prisma ORM, Laravel  
+🗄️ Database: PostgreSQL, MySQL  
 
 ☁️ Cloud: Railway, Vercel, Cloudinary
 
