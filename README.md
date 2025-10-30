@@ -11,32 +11,17 @@ serta terus meningkatkan keterampilan saya dalam Clean Architecture dan Database
 🖥️ Frontend: React.js, Vite, Tailwind CSS, Shadcn UI  
 ⚙️ Backend: Node.js (Express), Prisma ORM, Laravel  
 🗄️ Database: PostgreSQL, MySQL  
-
-☁️ Cloud: Railway, Vercel, Cloudinary
-
-🧪 Testing: Jest, Supertest
-
-📚 Tools: Git, Postman, VS Code
-
-📂 Featured Projects
-
-🔹 Circle UI
- — Frontend untuk aplikasi media sosial mini berbasis React.js
-🔹 Circle API
- — Backend RESTful API menggunakan Express.js + Prisma ORM
-🔹 Compore
- — Mini online store berbasis Laravel & Livewire
+☁️ Cloud: Railway, Vercel, Cloudinary  
+🧪 Testing: Jest, Supertest  
+📚 Tools: Git, Postman, VS Code  
 
 💬 Connect With Me
 
-📧 Email: mrafi0603@gmail.com
-
-💼 LinkedIn: [linkedin.com/in/muhammadrafi](https://www.linkedin.com/in/muhammad-r4fi)
-
-🌐 Portfolio: https://drive.google.com/file/d/1rf1axLjUgjLBApVB235FLVZ1hLILAlRX/view?usp=sharing
+📧 Email: mrafi0603@gmail.com  
+💼 LinkedIn: [linkedin.com/in/muhammadrafi](https://www.linkedin.com/in/muhammad-r4fi)  
+🌐 Portfolio: https://drive.google.com/file/d/1rf1axLjUgjLBApVB235FLVZ1hLILAlRX/view?usp=sharing  
 
 ✨ “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
-📅 Last Updated
-
+📅 Last Updated  
 🗓️ October 2025
