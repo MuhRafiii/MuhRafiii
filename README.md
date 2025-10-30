@@ -5,8 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I’m **Muhammad Rafi**, a final-year Informatics student passionate about **Fullstack Web Development**.  
-I have hands-on experience building applications using **React.js**, **Express.js**, **Prisma ORM**, and **Laravel**, applying **Clean Architecture** and modern development practices.
+I’m **Muhammad Rafi**, a final-year Informatics student passionate about **Fullstack Web Development**. I have hands-on experience building applications using **React.js**, **Express.js**, **Prisma ORM**, and **Laravel**, applying **Clean Architecture** and modern development practices.
 
 ---
 
@@ -20,7 +19,7 @@ I have hands-on experience building applications using **React.js**, **Express.j
 ---
 
 ## 📬 Get in Touch
-📧 **Email:** [mrafi0603@gmail.com](mailto:mrafi0603@gmail.com)  
+📧 [mrafi0603@gmail.com](mailto:mrafi0603@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-r4fi)  
 🐙 [GitHub](https://github.com/muhammadrafi)  
 🌐 [Portfolio](https://drive.google.com/file/d/1rf1axLjUgjLBApVB235FLVZ1hLILAlRX/view?usp=sharing)
